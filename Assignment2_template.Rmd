@@ -1,0 +1,82 @@
+---
+title: "Assignment 2: Data transformation"
+author: "Your Name"
+date: "Today's date"
+output: html_document
+---
+
+**Due Sunday, October 6, 2019 @ 11:59pm through Github**
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+library(tidyverse)
+load("nmes2018.rda")
+```
+
+### Question 1
+
+* How many people in the dataset have an MSCD?
+
+Answer:
+```{r}
+#Put your code for question 1 here
+
+```
+
+* What was the highest medical expenditure in this data?
+
+Answer:
+```{r}
+#Put your code for question 1 here
+
+```
+
+* What was the highest medical expenditure for someone without an MSCD?
+
+Answer:
+```{r}
+#Put your code for question 1 here
+
+```
+
+* How old is the youngest person with an MSCD?
+
+Answer:
+```{r}
+#Put your code for question 1 here
+
+```
+
+* How old is the oldest person without an MSCD?
+
+Answer:
+```{r}
+#Put your code for question 1 here
+
+```
+
+
+### Question 2
+```{r}
+#Put your code for question 2 here
+
+```
+
+### Question 3
+
+Plot 1:
+```{r}
+#Put your code for plot 1 here
+
+```
+
+Plot 2:
+```{r}
+#Put your code for plot 2 here
+
+```
+
+Replace this text with your sentences about which plot you prefer and why.
