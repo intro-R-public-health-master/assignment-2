@@ -5,7 +5,7 @@ date: "Today's date"
 output: html_document
 ---
 
-**Due Sunday, October 10, 2021 @ 11:59pm through Github**
+**Due Sunday, October 9, 2022 @ 11:59pm through Github**
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
